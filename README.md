@@ -1,6 +1,6 @@
 # ShopStore---UI
 A fully responsive e-commerce homepage UI built using HTML and CSS. This project recreates a modern online shopping layout with navigation, hero slider, product grids, and a complete footer.
-# MegaMart Store UI
+# ShopStore UI
 
 A fully responsive e-commerce website UI built using **HTML** and **CSS**.  
 This project replicates a modern online shopping homepage with a navigation bar, search bar, hero slider, product sections, and a detailed footer.  
