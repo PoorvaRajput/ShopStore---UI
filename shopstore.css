@@ -28,7 +28,7 @@
 }
 
 .logo{
-    background-image: url("Shop\ Store.png") ;
+    background-image: url("Shop\ Store\ -\ Copy\ \(2\).png") ;
     background-size: cover;
     background-position: center;
     height:50px;
@@ -158,14 +158,14 @@ span {
 }
 
 
-.panel-img{
+/* .panel-img{
     background-image: url("right_pannel.png");
     background-size: cover;
     background-position: center;
 
     height:40px;
     width:100%;
-}
+} */
 
 .left-panel {
     font-weight: 700;
@@ -199,17 +199,17 @@ span {
     }
 
     33.1% {
-        background-image: url("herosection3.png");
+        background-image: url("herosection3\ -\ Copy.png");
     }
     66% {
         background-image: url("herosection1.png");
     }
 
     66.1% {
-        background-image: url("herosection4.png");
+        background-image: url("herosection4\ -\ Copy\ \(2\).png");
     }
     100% {
-        background-image: url("herosection5.png");
+        background-image: url("herosection5\ -\ Copy\ \(2\).png");
     }
 }
 .shopping-section{
@@ -340,7 +340,7 @@ ul{
     
 }
 .logo{
-    background-image: url("Shop\ Store.png") ;
+    background-image: url("Shop\ Store\ -\ Copy\ \(2\).png") ;
     background-size: cover;
     height:50px;
     width:100px;
